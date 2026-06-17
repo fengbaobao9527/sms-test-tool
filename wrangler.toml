@@ -1,6 +1,6 @@
 name = "sms-bombing-tool"
-type = "pages"
+compatibility_date = "2026-06-17"
 
 [build]
 command = ""
-publish = "."
+pages_build_output_dir = "."
