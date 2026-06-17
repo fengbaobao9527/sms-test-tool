@@ -1,5 +1,4 @@
 name = "sms-bombing-tool"
 compatibility_date = "2026-06-17"
 
-[site]
-bucket = "."
+pages_build_output_dir = "."
